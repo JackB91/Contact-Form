@@ -3,6 +3,7 @@ const last = document.getElementById("last");
 const email = document.getElementById("email");
 const message = document.getElementById("msgtxt");
 const consent = document.getElementById("consent");
+const success = document.getElementById("success");
 
 const submit = document.getElementById("submit_btn");
 
